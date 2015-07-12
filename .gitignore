@@ -58,9 +58,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# JavaRushConfFiles
-JavaRushPlugin.properties
-.idea/workspace.xml
-
 # Idea config files
 .Idea
+/out/
+.iml
