@@ -61,6 +61,6 @@ $RECYCLE.BIN/
 # JavaRushConfFiles
 JavaRushPlugin.properties
 .idea/workspace.xml
-.idea/workspace.xml
-.idea/workspace.xml
-.idea/workspace.xml
+
+# Idea config files
+.Idea
